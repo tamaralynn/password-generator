@@ -1,0 +1,40 @@
+body {
+    background: url(../images/painted-hills-oregon.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    overflow: auto;
+    font: #eee;
+}
+
+h3 {
+    margin: auto;
+}
+
+div.generator-container:before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    box-shadow: inset 0 0 2000px rgba(255, 255, 255, .5);
+    box-shadow: inset 0 0 2000px rgba(255, 255, 255, .5);
+}
+
+div.generator-container,
+div.generator-container:before {
+    background: inherit;
+    margin: auto;
+    border: solid, #eee, 2px;
+    width: 80%;
+    height: 80%;
+    padding: 5% 10%;
+    overflow: auto;
+}
+
+footer {
+    text-decoration: none;
+    margin: auto;
+    bottom: 0;
+}
