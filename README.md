@@ -1,7 +1,7 @@
 # Password Generator
 
 ## Functions
-This applications creates passwords from 8-128 characters.
+This website lets a user create passwords from 8-128 characters, based on their chosen length.
 It gives the users the option of including uppercase letters, lowercase letters, numbers, & special characters.
 
 ## Features
@@ -11,4 +11,4 @@ Copy Button: Copies the generated password when clicked
 
 deployed at : https://tamaralynn.io/password-generator
 
-assets/phone.png
+What therom a phone: assets/phone.png
