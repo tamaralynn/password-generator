@@ -62,7 +62,6 @@ header {
 .card-footer::before {
     content: " ";
     display: block;
-    width: 100%;
     background: #e7e9eb;
     height: 2px;
 }
@@ -75,8 +74,8 @@ header {
 
 .btn {
     border: none;
-    background-color: hsl(360, 91%, 36%);
-    border-radius: 25px;
+    background-color: rgb(224, 100, 28);
+    border-radius: 10px;
     box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 6px 0px rgba(0, 0, 0, 0.2) 0px 1px 1px 0px;
     color: hsl(0, 0%, 100%);
     display: inline-block;
